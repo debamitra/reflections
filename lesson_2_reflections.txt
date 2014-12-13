@@ -5,6 +5,10 @@ gets created which contains the meta data tracking commit historyfor this repo.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging areas is an intermediete area where you can add only those files
+that you want to include in a commit. This helps keep logically different
+commits seperate.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
