@@ -11,9 +11,12 @@ commits seperate.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Only those files you want to commit you can add to staging area
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+for having diff versions of same game or for experimanting with different features
+whil still having a working copy of the game available.
 
 How do the diagrams help you visualize the branch structure?
 
