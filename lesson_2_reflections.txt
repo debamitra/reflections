@@ -19,6 +19,7 @@ for having diff versions of same game or for experimanting with different featur
 whil still having a working copy of the game available.
 
 How do the diagrams help you visualize the branch structure?
+Helps identify which commits are of which branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
